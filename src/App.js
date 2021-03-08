@@ -6,6 +6,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import About from './components/pages/About';
 import Work from './components/pages/Work';
 import Contact from './components/pages/Contact';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path='/work' component={Work} />
           <Route path='/contact' component={Contact} />
         </Switch>
+        <Footer />
       </Router>
     </>
   );
