@@ -40,3 +40,41 @@
     color: black;
     font-size: 100px;
   }
+
+  .home-container {
+    margin-top :100px;
+    margin-bottom :200px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+  .home-container-title {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .home-title {
+    color: black;
+    text-align: center;
+    font-size: 100px;
+  }
+
+  .contact-container {
+    margin-top :100px;
+    margin-bottom :200px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+  .contact-container-title {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .contact-title {
+    color: black;
+    text-align: center;
+    font-size: 100px;
+  }
