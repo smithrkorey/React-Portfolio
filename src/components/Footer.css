@@ -49,7 +49,7 @@
   /* Social Icons */
   .social-icon-link {
     color: #fff;
-    font-size: 24px;
+    font-size: 49px;
   }
   
   .social-media {
@@ -70,7 +70,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 240px;
+    width: 150px;
   }
   
   .social-logo {
