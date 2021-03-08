@@ -8,7 +8,8 @@
   .home,
   .about,
   .work,
-  .contact {
+  .contact
+   {
     display: flex;
     height: 90vh;
     align-items: center;
@@ -18,32 +19,24 @@
   
   .about {
     background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
     color: black;
     font-size: 100px;
   }
   
   .work {
     background-position: center;
-    background-size: fill;
-    background-repeat: no-repeat;
-    color: black;
-    font-size: 100px;
-  }
-  
-  .contact {
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
     color: black;
     font-size: 100px;
   }
 
   .home {
     background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
+    color: black;
+    font-size: 100px;
+  }
+    
+  .contact {
+    background-position: center;
     color: black;
     font-size: 100px;
   }
