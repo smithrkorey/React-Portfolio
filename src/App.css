@@ -78,3 +78,43 @@
     text-align: center;
     font-size: 100px;
   }
+
+  .about-container {
+    margin-top :100px;
+    margin-bottom :200px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+  .about-korey-smith {
+    color: black;
+    text-align: left;
+    font-size: 40px;
+
+  }
+
+  .about-intro-p {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .about-contact-line {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .about-education-title {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 40px;
+    text-align: center;
+    color: #20639B;
+  }
+
+  .about-education-list {
+    color: black;
+    text-align: center;
+    font-size: 20px;
+  }
