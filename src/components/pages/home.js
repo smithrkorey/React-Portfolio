@@ -9,7 +9,7 @@ function Home() {
           <>
             <h1 class="home-title">Hello!</h1>
             <p>
-            My name is Korey and I am a Digital Marketing Specialist UX Designer & Web Developer
+            My name is Korey and I am a Digital Marketing Specialist, UX Designer & Web Developer
             </p>
           </>
 
